@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Paper</title>
-    <link>https://hugo-paper.vercel.app/post/</link>
-    <description>Recent content in Posts on Paper</description>
+    <title>Posts on X的个人博客</title>
+    <link>https://tiiiick.github.io/post/</link>
+    <description>Recent content in Posts on X的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008-2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hugo-paper.vercel.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiiiick.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
-      <link>https://hugo-paper.vercel.app/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-paper.vercel.app/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://hugo-paper.vercel.app/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-paper.vercel.app/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://hugo-paper.vercel.app/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-paper.vercel.app/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://hugo-paper.vercel.app/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-paper.vercel.app/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://hugo-paper.vercel.app/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-paper.vercel.app/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <title>Nov. 2023</title>
+      <link>https://tiiiick.github.io/post/hello-world/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiiiick.github.io/post/hello-world/</guid>
+      <description>➡️11.05
+废了老大劲，本计算机废物终于把这个说废话网站搭好了（虽然因果和统计计算的作业到现在还没开始写，乐）。
+上午和老师约了个meet，感觉她人真的非常nice，笑起来也很可爱qwq。给了我四个课题让我选（天呐我简直是感恩戴德），然后给了我要读的paper，感觉真的能学到东西and出点小成果。目前来看起步跟着她做还是很舒服，虽然可以预料到会有点点push，毕竟她有teture压力，我有升学压力（。）
+这两天花样滑冰的浓度还挺高，反正COC估计是看不了，就当提前给自己了点补偿（什么）。打分是越来越离谱，看得我都难受……全靠四老师抚平内心的创伤（？
+真的觉得我cp已婚，谁懂啊。（每次跟朋友说她们都觉得我在跑火车，乐，倒也挺合理的）
+中午吃饭的时候还碰到一个五年级的小姑娘问我怎么考上大学的，给我整不会了。我始终觉得考上清华是我目前人生中遇到的最不幸的事（呃呃），毕竟在高三和大二的重压之下整个人的心态基本已经走向了之前性格的对立面。如果重返高三我估计会像我妈希望的那样快乐躺平，上个郑大医学院，然后快乐啃老。
+也不用学数学了，我都不敢想象这有多快乐x
+得，今天还得把因果和实验报告写了，下周开始就要期中周和科研对对碰了。
+祝我自己好运🥹</description>
     </item>
   </channel>
 </rss>
