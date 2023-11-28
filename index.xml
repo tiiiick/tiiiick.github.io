@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008-2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tiiiick.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rusty Lake</title>
+      <link>https://tiiiick.github.io/post/my-first-post/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiiiick.github.io/post/my-first-post/</guid>
+      <description>24号的时候jyw突然问有没有什么游戏推荐，我试图拼团锈湖未遂，于是自己氪约40块拿下了hotel、paradise和roots，并且打算等圣诞节冬促入手bundle剩下的部分。大概写一下自己的游玩体验与吐槽。
+Hotel：
+整体感觉其实没有非常惊艳，可能是纸嫁衣一类的游戏玩过不少，很多解谜环节基本都是互通的。自己打的第一把上来就杀猪去了（啊啊啊），完全没有看菜谱&amp;hellip;
+最喜欢的房间应该是野鸡小姐，虽然她一直“请给我拍照”很搞笑，还在她的屋里卡了好久，因为玻璃片无处安放，但是我和她的思路对上了之：
+必须要拍照她才会去世。
+感觉是一位令人遗憾的行为艺术家。所以我很喜欢她kkkk
+Paradise：
+有空来填。
+Roots：
+回头再说。
+Samsara Room：
+这个大约67min就通关了，游戏本身非常小也没有彩蛋，只有六个房间，但是我个人非常喜欢，可能因为我比较喜欢角色扮演。在乌鸦那里卡了比较长的时间（Mr. Crow怎么又是你），但其实思路非常舒服（指让我舒服），而且有一些非常好笑的梗：
+&amp;ldquo;I look a bit fishy.&amp;rdquo;
+这个真的好戳我笑点kkkk</description>
+    </item>
     <item>
       <title>Nov. 2023</title>
       <link>https://tiiiick.github.io/post/nov.-2023/</link>
@@ -55,10 +75,14 @@ https://music.163.com/song?id=1871082917&amp;amp;userid=5040500650
 ➡️11.14 好久没写了&amp;hellip;总是忘记，今天不想复习了，特地上来recap一下。
 过生日也没有干什么，其实有点后悔，早知道第二天可以逃过meet的话我必然去吃火锅（？但还好，嗯。
 昨天考掉了因果，有一个super population下的证明是胡写一气，三分估计要丢两分；最后一题和瞎蒙无异，往上抄了点提示的公式和bayes的算式，然后写了俩直觉出来的结果，乐，不知道能不能骗一半的分。除了这个剩下的应该还好？哦对又想起来V_const的无偏性又错了，再扣一分；然后regression那里解释advantage也不一定恰当，感觉总共要扣十一二分的样子。希望大家多扣点www。
-今天考掉了水文，然后目前感觉还好？没有什么特别严重的错误。最开始以为净雨量错了，后来发现不是我错了x\ 谢谢我自己最后发现了好多分的错，绷不住了。
+今天考掉了水文，然后目前感觉还好？没有什么特别严重的错误。最开始以为净雨量错了，后来发现不是我错了x 谢谢我自己最后发现了好多分的错，绷不住了。
 然后今天晚上得把工程力学看掉很多，可惜的是快没电了（得）看完工程力学就得极限看文献，看完文献就得花一周日的时间填坑，然后把统计计算复习了。
 累死我得了。希望芝兰早点开，想吃火锅，要是第十周周末能吃到就最好了👊毕竟第十三周又要考试了。
-好想放寒假，救救我。</description>
+好想放寒假，救救我。
+➡️11.28 再不写这个月都要没了，呵呵。发现自己总是在统计推断课前写这个玩意。
+后来又考掉了工程力学CE和统计计算。因果比想象中的高很多，甚至考了97分，我怀疑是最后一道胡乱写的题蒙到了满分。工程力学CE的极坐标推导大错特错，完全忘记环向分量在径向的分量和径向分量在环向的分量了&amp;hellip;但是居然还有89分。根据xqy的说法应该还挺有希望4.0的。但是统计计算大寄特寄了：只考了78.5。我寻思了一下我好像每学期都得来一个（四舍五入的）79分。上学期的工程经济学成功翻盘了，希望这学期也OK。
+我的意思是，zzy，救救我！
+突然卡住了，丢掉了一些内容，绷不住了。核心就是，快写作业快干活！</description>
     </item>
     <item>
       <title></title>
