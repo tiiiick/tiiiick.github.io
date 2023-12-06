@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008-2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tiiiick.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rusty Lake</title>
-      <link>https://tiiiick.github.io/post/my-first-post/</link>
+      <link>https://tiiiick.github.io/post/rusty-lake/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://tiiiick.github.io/post/my-first-post/</guid>
+      <guid>https://tiiiick.github.io/post/rusty-lake/</guid>
       <description>24号的时候jyw突然问有没有什么游戏推荐，我试图拼团锈湖未遂，于是自己氪约40块拿下了hotel、paradise和roots，并且打算等圣诞节冬促入手bundle剩下的部分。大概写一下自己的游玩体验与吐槽。
 Hotel：
 整体感觉其实没有非常惊艳，可能是纸嫁衣一类的游戏玩过不少，很多解谜环节基本都是互通的。自己打的第一把上来就杀猪去了（啊啊啊），完全没有看菜谱&amp;hellip;
@@ -88,6 +88,18 @@ https://music.163.com/song?id=1871082917&amp;amp;userid=5040500650
 后来又考掉了工程力学CE和统计计算。因果比想象中的高很多，甚至考了97分，我怀疑是最后一道胡乱写的题蒙到了满分。工程力学CE的极坐标推导大错特错，完全忘记环向分量在径向的分量和径向分量在环向的分量了&amp;hellip;但是居然还有89分。根据xqy的说法应该还挺有希望4.0的。但是统计计算大寄特寄了：只考了78.5。我寻思了一下我好像每学期都得来一个（四舍五入的）79分。上学期的工程经济学成功翻盘了，希望这学期也OK。
 我的意思是，zzy，救救我！
 突然卡住了，丢掉了一些内容，绷不住了。核心就是，快写作业快干活！</description>
+    </item>
+    <item>
+      <title>Dec. 2023</title>
+      <link>https://tiiiick.github.io/post/dec.-2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiiiick.github.io/post/dec.-2023/</guid>
+      <description>🌟12.06 我的天，为什么刚才我的blog发生了奇妙的跑版（？）？
+上大学以来还是头一次处于精神上没出现什么问题，但是快忙崩溃了的状态……
+水文学考了98，感觉相当OK，估计能苟一波4.0，甚至有希望A+。现在比较严肃的问题是自己的科研做得还是挺依托的😇写的draft也很抽象，虽然如果不是周四又统推的考试悬在我的头顶上可能会好些，但还是，我不太有耐心沉下气敲一坨坨公式（悲）。
+期末的话，可能需要重点拯救一下统计计算，剩下的倒还在掌控之中……统计计算硬是比中位数低了6分，我真的不适合zzy的考试😭
+今天要跑预期中人生中的最后一场一千五，然后看掉统推的课件，顺带把作业给写掉，明天突击一波统推，我就可以迎来两周半不考试的生活了！
+顺便还是要在科研上多下点功夫，万一能有个Cornell保底呢（汗）（我在做什么梦）😇</description>
     </item>
   </channel>
 </rss>

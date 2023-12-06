@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tick&#39;s personal blog</title>
-    <link>https://tiiiick.github.io/</link>
-    <description>Recent content on Tick&#39;s personal blog</description>
+    <title>2023 on Tick&#39;s personal blog</title>
+    <link>https://tiiiick.github.io/tags/2023/</link>
+    <description>Recent content in 2023 on Tick&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008-2019, Steve Francia and the lee.so; all rights reserved.</copyright>
     <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tiiiick.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rusty Lake</title>
-      <link>https://tiiiick.github.io/post/rusty-lake/</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://tiiiick.github.io/post/rusty-lake/</guid>
-      <description>24号的时候jyw突然问有没有什么游戏推荐，我试图拼团锈湖未遂，于是自己氪约40块拿下了hotel、paradise和roots，并且打算等圣诞节冬促入手bundle剩下的部分。大概写一下自己的游玩体验与吐槽。
-Hotel：
-整体感觉其实没有非常惊艳，可能是纸嫁衣一类的游戏玩过不少，很多解谜环节基本都是互通的。自己打的第一把上来就杀猪去了（啊啊啊），完全没有看菜谱&amp;hellip;
-最喜欢的房间应该是野鸡小姐，虽然她一直“请给我拍照”很搞笑，还在她的屋里卡了好久，因为玻璃片无处安放，但是我和她的思路对上了之：
-必须要拍照她才会去世。
-感觉是一位令人遗憾的行为艺术家。所以我很喜欢她kkkk
-Paradise：
-有空来填。
-Roots：
-回头再说。
-Samsara Room：
-这个大约67min就通关了，游戏本身非常小也没有彩蛋，只有六个房间，但是我个人非常喜欢，可能因为我比较喜欢角色扮演。在乌鸦那里卡了比较长的时间（Mr. Crow怎么又是你），但其实思路非常舒服（指让我舒服），而且有一些非常好笑的梗：
-&amp;ldquo;I look a bit fishy.&amp;rdquo;
-这个真的好戳我笑点kkkk
-Cube Escape Paradox1:
-这个居然打了两个半小时？个人感觉没有那么多，基本只有90min的样子。
-Anyway，这部不是非常喜欢，首先是莫名其妙出现的真人照片&amp;hellip;还有电视里的真人剧情&amp;hellip;反正就是很无语、、本身画风蛮好的，为什么要加这些很无语的镜头&amp;hellip;
-此外就是最后一关非常讨厌，我不喜欢乱七八糟地图，很无聊啊&amp;hellip;
-比较喜欢的部分是fix my mind那一趴和地球仪，剩下的都中规中矩。简而言之是目前最不喜欢的一部锈湖。（</description>
-    </item>
+    <atom:link href="https://tiiiick.github.io/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nov. 2023</title>
       <link>https://tiiiick.github.io/post/nov.-2023/</link>
@@ -100,29 +75,6 @@ https://music.163.com/song?id=1871082917&amp;amp;userid=5040500650
 期末的话，可能需要重点拯救一下统计计算，剩下的倒还在掌控之中……统计计算硬是比中位数低了6分，我真的不适合zzy的考试😭
 今天要跑预期中人生中的最后一场一千五，然后看掉统推的课件，顺带把作业给写掉，明天突击一波统推，我就可以迎来两周半不考试的生活了！
 顺便还是要在科研上多下点功夫，万一能有个Cornell保底呢（汗）（我在做什么梦）😇</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://tiiiick.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://tiiiick.github.io/archives/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://tiiiick.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://tiiiick.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://tiiiick.github.io/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://tiiiick.github.io/contact/</guid>
-      <description> github.com/tiiiick </description>
     </item>
   </channel>
 </rss>
