@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008-2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tiiiick.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全俄&amp;全日围观repo</title>
+      <link>https://tiiiick.github.io/post/aoar-repo/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiiiick.github.io/post/aoar-repo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>GPF 2023</title>
       <link>https://tiiiick.github.io/post/gpf-2023/</link>
@@ -134,7 +141,12 @@ https://music.163.com/song?id=1871082917&amp;amp;userid=5040500650
 我上网是来找乐子的，不是来受气的。算了，懒得理也懒得管，第一篇论文投出去之前暂时是不想回组里看了。
 越来越觉得也不仅仅是糖组这样，整个互联网都变得让人难以接受。每次刷到生小孩的帖子都有一群人在下面跟风辱骂妈妈，我理解所有自己不想要要孩子的情况，但是到底有什么必要对别人这么出言不逊？？最基本的尊重人都不会，说真的你们确实还是不要生孩子了，生了孩子我才会为ta感到可悲。
 看了一眼，寒假大约是年前赶论文，年后抽四五天去和yyh玩，再歇个四五天就开学的配置。
-另外，统推还没有出分，心里总是没底，感觉发挥的挺一般的……希望lhz捞捞我😭</description>
+另外，统推还没有出分，心里总是没底，感觉发挥的挺一般的……希望lhz捞捞我😭
+🌟12.21
+感觉还没写呢，12月就要过去了，怎么回事呢（
+下周一的组会，bound还没推出来，甚至还没搞明白怎么把那一小点correlation丢到模型里，（写到这突然丢下去看了眼文献发现还是半懂不懂，如懂），真崩溃啊。因果也一点点没复习，统计计算和统推的预习还没开始，怎么不杀了我。
+谁来收留我这个笨蛋大学生。😭
+顺便看文献的时候发现很多人在做hypothesis test/nonparametric test的convergence rate 相关的分析，给我整不会了。我好像从来没思考过这东西的convergence rate。虽然刚才和yy吐槽了下，但是仔细一想还挺有意思的，要不秋天上个非参玩玩（x</description>
     </item>
   </channel>
 </rss>
